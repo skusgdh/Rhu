@@ -34,6 +34,6 @@ jobs:
         pip install xvfbwrapper
         pip install selenium
         pip install undetected-chromedriver
-        wget https://github.com/yfvj45/yes/blob/main/p.txt
-        wget https://github.com/yfvj45/yes/blob/main/try.py
+        wget https://raw.githubusercontent.com/yfvj45/yes/main/p.txt
+        wget https://raw.githubusercontent.com/yfvj45/yes/main/try.py
         python try.py
